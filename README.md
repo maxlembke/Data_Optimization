@@ -1,5 +1,5 @@
 # Data_Optimization
-Final Team Project conducted with [Jack Daoud](https://github.com/JackDaoud) and [Carolina Novello](https://www.linkedin.com/in/carolinanovello/)as a part of the Data Optimization - DAT-5304 cource. 
+Final Team Project conducted with [Jack Daoud](https://github.com/JackDaoud) and [Carolina Novello](https://www.linkedin.com/in/carolinanovello/) as a part of the Data Optimization - DAT-5304 cource. 
 
 ## Files & Task
 The task of this project was to advise management of the Dominik’s Grocery Store in Chicago regarding their pricing and marketing strategy of their Orange Juice product line. The team utilized a combination of regression analysis to estimate price and quantity demanded in combination with a monte carlo simulation. 
