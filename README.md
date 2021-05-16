@@ -1,4 +1,4 @@
-# Data_Optimization
+# Data Optimization
 Final Team Project conducted with [Jack Daoud](https://github.com/JackDaoud) and [Carolina Novello](https://www.linkedin.com/in/carolinanovello/) as a part of the Data Optimization - DAT-5304 cource. 
 
 ## Files & Task
